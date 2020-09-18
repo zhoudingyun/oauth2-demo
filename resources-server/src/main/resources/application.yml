@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: unified-authority-authentication-zuul
+
+server:
+  port: 8000
+
+
+
+
